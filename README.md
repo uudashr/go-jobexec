@@ -1,3 +1,4 @@
+[![GoDoc](https://godoc.org/github.com/uudashr/go-jobexec?status.svg)](https://godoc.org/github.com/uudashr/go-jobexec)
 # go-jobexec
 
 jobexec provides mechanism to control permission for distributed job execution by providing context.
